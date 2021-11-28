@@ -96,7 +96,16 @@ Solution: [java-loops-i](https://github.com/leticiacamposs2/hackerrank-java-web-
 </details>
 
 
-<details><summary><b>❌ Java Datatypes</b></summary></details>
+<details><summary><b>✔️ Java Int to String</b></summary>
+
+<b>Task</b>
+
+If your code successfully converts <b>n</b> into a string <b>s</b> the code will print "Good job". Otherwise it will print "Wrong answer".
+
+Solution: [java-int-to-string](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-int-to-string.java)
+
+</details>
+
 <details><summary><b>❌ Java Int to String</b></summary></details>
 <details><summary><b>❌ Java String Reverse</b></summary></details>
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
