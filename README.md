@@ -34,7 +34,7 @@ Sample Case 0: <b>n = 3</b>
 Sample Case 1: <b>n = 24</b>
 <b>n > 20</b> and <b>n</b> is even, so it isn't weird. Thus, we print `Not Weird`.
 
-Solution: [java-stdin-and-stdout-1](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-if-else.java)
+Solution: [java-if-else](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-if-else.java)
 
 </details>
 
@@ -69,13 +69,13 @@ findDay has the following parameters:
 
 - string: the day of the week in capital letters
 
-<b>Sample Input<b>
+<b>Sample Input</b>
 
 ```
 08 05 2015
 ```
 
-<b>Sample Output<b>
+<b>Sample Output</b>
 
 ```
 WEDNESDAY
@@ -85,7 +85,17 @@ Solution: [java-date-and-time](https://github.com/leticiacamposs2/hackerrank-jav
 
 </details>
 
-<details><summary><b>❌ Java Loops I</b></summary></details>
+<details><summary><b>✔️ Java Loops I</b></summary>
+
+<b>Task</b>
+
+Given an integer, <b>N</b>, print its first <b>10</b> multiples. Each multiple <b>N x i</b> (where <b>1 <= i <= 10</b>) should be printed on a new line in the form: <b>N x i = result</b>.
+
+Solution: [java-loops-i](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-loops-i.java)
+
+</details>
+
+
 <details><summary><b>❌ Java Datatypes</b></summary></details>
 <details><summary><b>❌ Java Int to String</b></summary></details>
 <details><summary><b>❌ Java String Reverse</b></summary></details>
