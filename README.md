@@ -106,8 +106,19 @@ Solution: [java-int-to-string](https://github.com/leticiacamposs2/hackerrank-jav
 
 </details>
 
-<details><summary><b>❌ Java Int to String</b></summary></details>
-<details><summary><b>❌ Java String Reverse</b></summary></details>
+<details><summary><b>✔️ Java String Reverse</b></summary>
+
+<b>Task</b>
+
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward.
+
+Given a string <b>A</b>, print `Yes` if it is a palindrome, print `No` otherwise.
+
+Solution: [java-string-reverse](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-string-reverse.java)
+
+</details>
+
+<details><summary><b>❌ Java Datatypes</b></summary></details>
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java BigInteger</b></summary></details>
 <details><summary><b>❌ Java Arraylist</b></summary></details>
