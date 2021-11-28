@@ -39,6 +39,53 @@ Solution: [java-stdin-and-stdout-1](https://github.com/leticiacamposs2/hackerran
 
 </details>
 
+<details><summary><b>✔️ Java Date and Time</b></summary>
+
+<b>Task</b>
+
+You are given a date. You just need to write the method, <b>getDay</b>, which returns the day on that date. To simplify your task, we have provided a portion of the code in the editor.
+
+<b>Example</b>
+```
+month = 8
+day = 14
+yaer = 2017
+```
+
+The method should return <b>MONDAY</b> as the day on that date.
+
+![calendar](https://s3.amazonaws.com/hr-assets/0/1514458312-c097047ed4-calendar_class.png)
+
+<b>Function Description</b>
+
+Complete the findDay function in the editor below.
+
+findDay has the following parameters:
+
+- int: month
+- int: day
+- int: year
+
+<b>Returns</b>
+
+- string: the day of the week in capital letters
+
+<b>Sample Input<b>
+
+```
+08 05 2015
+```
+
+<b>Sample Output<b>
+
+```
+WEDNESDAY
+```
+
+Solution: [java-date-and-time](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-date-and-time.java)
+
+</details>
+
 <br>
 
 > [Challenges to solve](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/tree/main/challenges-to-solve)
