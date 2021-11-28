@@ -118,9 +118,39 @@ Solution: [java-string-reverse](https://github.com/leticiacamposs2/hackerrank-ja
 
 </details>
 
+<details><summary><b>✔️ Java BigInteger</b></summary>
+
+In this problem, you have to add and multiply huge numbers! These numbers are so big that you can't contain them in any ordinary data types like a long integer.
+
+Use the power of Java's BigInteger class and solve this problem.
+
+<b>Sample Input</b>
+
+```
+1234
+20
+```
+
+<b>Sample Output</b>
+
+```
+1254
+24680
+```
+
+<b>Explanation</b>
+
+```
+1234 + 20 = 1254
+1234 * 20 = 24680
+```
+
+Solution: [java-biginteger](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-biginteger.java)
+
+</details>
+
 <details><summary><b>❌ Java Datatypes</b></summary></details>
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
-<details><summary><b>❌ Java BigInteger</b></summary></details>
 <details><summary><b>❌ Java Arraylist</b></summary></details>
 <details><summary><b>❌ Java Exception Handling (Try-catch)</b></summary></details>
 <details><summary><b>❌ Java Abstract Class</b></summary></details>
