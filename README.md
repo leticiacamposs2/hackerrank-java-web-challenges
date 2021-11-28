@@ -1,6 +1,5 @@
 # HackerRank Java Web Solutions
 
-
 [Challenges](https://www.hackerrank.com/contests/bootcamp-java-web/challenges) of Backend with Java by WoMakersCode 🦋
 
 ### ✏️ Todolist
@@ -85,6 +84,23 @@ WEDNESDAY
 Solution: [java-date-and-time](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-date-and-time.java)
 
 </details>
+
+<details><summary><b>❌ Java Loops I</b></summary></details>
+<details><summary><b>❌ Java Datatypes</b></summary></details>
+<details><summary><b>❌ Java Int to String</b></summary></details>
+<details><summary><b>❌ Java String Reverse</b></summary></details>
+<details><summary><b>❌ Java Substring Comparisons</b></summary></details>
+<details><summary><b>❌ Java BigInteger</b></summary></details>
+<details><summary><b>❌ Java Arraylist</b></summary></details>
+<details><summary><b>❌ Java Exception Handling (Try-catch)</b></summary></details>
+<details><summary><b>❌ Java Abstract Class</b></summary></details>
+<details><summary><b>❌ Java Dequeue</b></summary></details>
+<details><summary><b>❌ Java Priority Queue</b></summary></details>
+<details><summary><b>❌ Java Exception Handling</b></summary></details>
+<details><summary><b>❌ Can You Access?</b></summary></details>
+<details><summary><b>❌ Java BitSet</b></summary></details>
+<details><summary><b>❌ Java String Tokens</b></summary></details>
+<details><summary><b>❌ Java 1D Array</b></summary></details>
 
 <br>
 
