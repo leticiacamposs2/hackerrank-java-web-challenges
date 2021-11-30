@@ -161,7 +161,7 @@ Solution: [java-1d-array-introduction](https://github.com/leticiacamposs2/hacker
 
 </details>
 
-<details><summary><b>❌ Java Abstract Class</b></summary>
+<details><summary><b>✔️ Java Abstract Class</b></summary>
 
 You have to create another class that extends the abstract class. Then you can create an instance of the new class.
 
