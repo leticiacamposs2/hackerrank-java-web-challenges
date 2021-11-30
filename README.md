@@ -149,6 +149,19 @@ Solution: [java-biginteger](https://github.com/leticiacamposs2/hackerrank-java-w
 
 </details>
 
+<details><summary><b>✔️ Java 1D Array</b></summary>
+
+<b>Task</b>
+
+1. Reads an integer from stdin and saves it to a variable, <b>n</b>, denoting some number of integers.
+2. Reads <b>n</b> integers corresponding to <b>a0, a1, ... an-1</b> from stdin and saves each integer  to a variable, <b>val</b>.
+3. Attempts to print each element of an array of integers named <b>a</b>.
+
+Solution: [java-1d-array-introduction](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-1d-array-introduction.java)
+
+</details>
+
+
 <details><summary><b>❌ Java Datatypes</b></summary></details>
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java Arraylist</b></summary></details>
@@ -160,7 +173,6 @@ Solution: [java-biginteger](https://github.com/leticiacamposs2/hackerrank-java-w
 <details><summary><b>❌ Can You Access?</b></summary></details>
 <details><summary><b>❌ Java BitSet</b></summary></details>
 <details><summary><b>❌ Java String Tokens</b></summary></details>
-<details><summary><b>❌ Java 1D Array</b></summary></details>
 
 <br>
 
