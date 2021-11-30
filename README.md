@@ -179,7 +179,7 @@ A tale of two cities
 The title is: A tale of two cities
 ```
 
-Solution: [java-abstract-class](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/jjava-abstract-class.java)
+Solution: [java-abstract-class](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-abstract-class.java)
 
 </details>
 
