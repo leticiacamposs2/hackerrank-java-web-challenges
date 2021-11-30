@@ -161,12 +161,33 @@ Solution: [java-1d-array-introduction](https://github.com/leticiacamposs2/hacker
 
 </details>
 
+<details><summary><b>❌ Java Abstract Class</b></summary>
+
+You have to create another class that extends the abstract class. Then you can create an instance of the new class.
+
+Notice that setTitle method is abstract too and has no body. That means you must implement the body of that method in the child class.
+
+<b>Sample Input</b>
+
+```
+A tale of two cities
+```
+
+<b>Sample Output</b>
+
+```
+The title is: A tale of two cities
+```
+
+Solution: [java-abstract-class](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/jjava-abstract-class.java)
+
+</details>
+
 
 <details><summary><b>❌ Java Datatypes</b></summary></details>
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java Arraylist</b></summary></details>
 <details><summary><b>❌ Java Exception Handling (Try-catch)</b></summary></details>
-<details><summary><b>❌ Java Abstract Class</b></summary></details>
 <details><summary><b>❌ Java Dequeue</b></summary></details>
 <details><summary><b>❌ Java Priority Queue</b></summary></details>
 <details><summary><b>❌ Java Exception Handling</b></summary></details>
