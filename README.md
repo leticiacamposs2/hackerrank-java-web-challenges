@@ -38,7 +38,7 @@ Solution: [java-if-else](https://github.com/leticiacamposs2/hackerrank-java-web-
 
 </details>
 
-<details><summary><b>✔️ Java Date and Time</b></summary>
+<details><summary><b>❌ Java Date and Time</b></summary>
 
 <b>Task</b>
 
@@ -201,8 +201,59 @@ Solution: [java-datatypes](https://github.com/leticiacamposs2/hackerrank-java-we
 
 </details>
 
+<details><summary><b>✔️ Java Arraylist</b></summary>
+
+<b>Input Format</b>
+
+The first line has an integer <b>n</b>. In each of the next <b>n</b> lines there will be an integer <b>d</b> denoting number of integers on that line and then there will be <b>d</b> space-separated integers. In the next line there will be an integer <b>q</b> denoting number of queries. Each query will consist of two integers <b>x</b> and <b>y</b>.
+
+Each number will fit in signed integer.
+Total number of integers in <b>n</b> lines will not cross <b>10 5</b>.
+
+<b>Output Format</b>
+
+In each line, output the number located in <b>Yth</b> position of <b>Xth</b> line. If there is no such position, just print "ERROR!"
+
+<b>Sample Input</b>
+
+```
+5
+5 41 77 74 22 44
+1 12
+4 37 34 36 52
+0
+3 20 22 33
+5
+1 3
+3 4
+3 1
+4 3
+5 5
+```
+
+<b>Sample Output</b>
+
+```
+74
+52
+37
+ERROR!
+ERROR!
+```
+
+<b>Explanation</b>
+
+The diagram below explains the queries:
+
+![java-arraylist](https://s3.amazonaws.com/hr-assets/0/1489168616-b25dd38013-arraylist.png)
+
+<b>Reference:</b> https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html
+
+Solution: [java-arraylist](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-arraylist.java)
+
+</details>
+
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
-<details><summary><b>❌ Java Arraylist</b></summary></details>
 <details><summary><b>❌ Java Exception Handling (Try-catch)</b></summary></details>
 <details><summary><b>❌ Java Dequeue</b></summary></details>
 <details><summary><b>❌ Java Priority Queue</b></summary></details>
