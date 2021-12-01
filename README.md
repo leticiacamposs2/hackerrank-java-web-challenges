@@ -95,7 +95,6 @@ Solution: [java-loops-i](https://github.com/leticiacamposs2/hackerrank-java-web-
 
 </details>
 
-
 <details><summary><b>✔️ Java Int to String</b></summary>
 
 <b>Task</b>
@@ -183,8 +182,25 @@ Solution: [java-abstract-class](https://github.com/leticiacamposs2/hackerrank-ja
 
 </details>
 
+<details><summary><b>✔️ Java Datatypes</b></summary>
 
-<details><summary><b>❌ Java Datatypes</b></summary></details>
+<b>Task</b>
+
+Java has 8 primitive data types; char, boolean, byte, short, int, long, float, and double. For this exercise, we'll work with the primitives used to hold integer values (byte, short, int, and long):
+
+- A byte is an 8-bit signed integer.
+- A short is a 16-bit signed integer.
+- An int is a 32-bit signed integer.
+- A long is a 64-bit signed integer.
+
+Given an input integer, you must determine which primitive data types are capable of properly storing that input.
+
+<b>Reference:</b> https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+Solution: [java-datatypes](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-datatypes.java)
+
+</details>
+
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java Arraylist</b></summary></details>
 <details><summary><b>❌ Java Exception Handling (Try-catch)</b></summary></details>
