@@ -201,7 +201,7 @@ Solution: [java-datatypes](https://github.com/leticiacamposs2/hackerrank-java-we
 
 </details>
 
-<details><summary><b>✔️ Java Arraylist</b></summary>
+<details><summary><b>❌ Java Arraylist</b></summary>
 
 <b>Input Format</b>
 
@@ -253,8 +253,20 @@ Solution: [java-arraylist](https://github.com/leticiacamposs2/hackerrank-java-we
 
 </details>
 
+<details><summary><b>✔️ Java Exception Handling (Try-catch)</b></summary>
+
+Java has built-in mechanism to handle exceptions. Using the `try` statement we can test a block of code for errors. The `catch` block contains the code that says what to do if exception occurs.
+
+This problem will test your knowledge on try-catch block.
+
+You will be given two integers <b>x</b> and <b>y</b> as input, you have to compute <b>x/y</b>. If <b>x</b> and <b>y</b> are not <b>32</b> bit signed integers or if <b>y</b> is zero, exception will occur and you have to report it. Read sample Input/Output to know what to report in case of exceptions.
+
+Solution: [java-exception-handling-try-catch](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-exception-handling-try-catch.java)
+
+</details>
+
+
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
-<details><summary><b>❌ Java Exception Handling (Try-catch)</b></summary></details>
 <details><summary><b>❌ Java Dequeue</b></summary></details>
 <details><summary><b>❌ Java Priority Queue</b></summary></details>
 <details><summary><b>❌ Java Exception Handling</b></summary></details>
