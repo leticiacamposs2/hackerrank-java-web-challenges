@@ -265,11 +265,19 @@ Solution: [java-exception-handling-try-catch](https://github.com/leticiacamposs2
 
 </details>
 
+<details><summary><b>✔️ Java Exception Handling</b></summary>
+
+You are required to compute the power of a number by implementing a calculator. Create a class MyCalculator which consists of a single method long power(int, int). This method takes two integers, <b>n</b> and <b>p</b>, as parameters and finds <b>Np</b>. If either <b>n</b> or <b>p</b> is negative, then the method must throw an exception which says "n or p should not be negative". Also, if both <b>n</b> and <b>p</b> are zero, then the method must throw an exception which says "n and p should not be zero".
+
+For example, -4 and -5 would result in java.lang.Exception: n or p should not be negative.
+
+Solution: [java-exception-handling](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-exception-handling.java)
+
+</details>
 
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java Dequeue</b></summary></details>
 <details><summary><b>❌ Java Priority Queue</b></summary></details>
-<details><summary><b>❌ Java Exception Handling</b></summary></details>
 <details><summary><b>❌ Can You Access?</b></summary></details>
 <details><summary><b>❌ Java BitSet</b></summary></details>
 <details><summary><b>❌ Java String Tokens</b></summary></details>
