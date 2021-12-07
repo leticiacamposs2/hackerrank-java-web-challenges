@@ -275,12 +275,23 @@ Solution: [java-exception-handling](https://github.com/leticiacamposs2/hackerran
 
 </details>
 
+<details><summary><b>✔️ Java String Tokens</b></summary>
+
+Given a string, <b>s</b>, matching the regular expression `[A-Za-z !,?._'@]+`, split the string into tokens. We define a token to be one or more consecutive English alphabetic letters. Then, print the number of tokens, followed by each token on a new line.
+
+<b>Output Format</b>
+
+On the first line, print an integer, <b>n</b>, denoting the number of tokens in string <b>s</b> (they do not need to be unique). Next, print each of the  tokens on a new line in the same order as they appear in input string <b>s</b>.
+
+Solution: [java-string-tokens](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-string-tokens.java)
+
+</details>
+
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java Dequeue</b></summary></details>
 <details><summary><b>❌ Java Priority Queue</b></summary></details>
 <details><summary><b>❌ Can You Access?</b></summary></details>
 <details><summary><b>❌ Java BitSet</b></summary></details>
-<details><summary><b>❌ Java String Tokens</b></summary></details>
 
 <br>
 
