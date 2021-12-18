@@ -287,8 +287,11 @@ Solution: [java-string-tokens](https://github.com/leticiacamposs2/hackerrank-jav
 
 </details>
 
-<details><summary><b>❌ Java Substring Comparisons</b></summary></details>
-<details><summary><b>❌ Java Dequeue</b></summary></details>
+<details><summary><b>✔️ Java Dequeue</b></summary>
+
+Solution: [java-queue](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/java--queue.java)
+
+</details>
 
 <details><summary><b>✔️ Java Priority Queue</b></summary>
 
