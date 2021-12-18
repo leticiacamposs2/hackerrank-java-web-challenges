@@ -4,32 +4,32 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        ArrayList<ArrayList<Integer>> arr = new ArrayList<ArrayList<Integer>>();        
-        Scanner scan = new Scanner(System.in);
-        int n = scan.nextInt();
-        int i = 0;
+      Scanner scan = new Scanner(System.in);
+      ArrayList[] list = new ArrayList[50000];
+      int n = scan.nextInt();
+      
+      for(int i=1; i<=n; i++) {
+        list[i] = new ArrayList();
+        int x = scan.nextInt();
 
-        for (i = 0; i < n; i++) {           
-            int d = scan.nextInt();
-            ArrayList<Integer> newArray = new ArrayList<Integer>();
-            
-            for (i = 0; i < d; i++) {
-                newArray.add(scan.nextInt());   
-            }
-            arr.add(newArray);            
+        for(int j=1; j<=x; j++) {
+            int val = scan.nextInt();
+            list[i].add(val);
         }
+      }
         
-        int q = scan.nextInt();
+      int q = scan.nextInt();
 
-        for (i = 0; i<q ; i++) {
-            int x = scan.nextInt();
-            int y = scan.nextInt();
-            
-            try {
-                System.out.println(arr.get(x-1).get(y-1));
-            } catch (Exception e) {
-                System.out.println("ERROR!");
-            }
-        }
+      for(int i=1; i<=q; i++) {
+          int x,y;
+          x = scan.nextInt();
+          y = scan.nextInt();
+          
+          try {
+              System.out.println(list[x].get(y-1));
+          } catch(Exception e) {
+              System.out.println("ERROR!");
+          }
+      }
     }
 }

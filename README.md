@@ -201,7 +201,7 @@ Solution: [java-datatypes](https://github.com/leticiacamposs2/hackerrank-java-we
 
 </details>
 
-<details><summary><b>❌ Java Arraylist</b></summary>
+<details><summary><b>✔️ Java Arraylist</b></summary>
 
 <b>Input Format</b>
 
@@ -291,7 +291,18 @@ Solution: [java-string-tokens](https://github.com/leticiacamposs2/hackerrank-jav
 <details><summary><b>❌ Java Dequeue</b></summary></details>
 <details><summary><b>❌ Java Priority Queue</b></summary></details>
 <details><summary><b>❌ Can You Access?</b></summary></details>
-<details><summary><b>❌ Java BitSet</b></summary></details>
+
+<details><summary><b>✔️ Java Comparator</b>
+
+Solution: [java-comparator](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/java-comparator.java)
+
+</summary>
+
+<details><summary><b>✔️ Java BitSet</summary></details>
+
+Solution: [java-bitset](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-bitset.java)
+
+</details>
 
 <br>
 
