@@ -289,8 +289,18 @@ Solution: [java-string-tokens](https://github.com/leticiacamposs2/hackerrank-jav
 
 <details><summary><b>❌ Java Substring Comparisons</b></summary></details>
 <details><summary><b>❌ Java Dequeue</b></summary></details>
-<details><summary><b>❌ Java Priority Queue</b></summary></details>
-<details><summary><b>❌ Can You Access?</b></summary></details>
+
+<details><summary><b>✔️ Java Priority Queue</b></summary>
+
+Solution: [java-priority-queue](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/java-priority-queue.java)
+
+</details>
+
+<details><summary><b>✔️ Can You Access?</b></summary>
+
+Solution: [can-you-access](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/can-you-access.java)
+
+</details>
 
 <details><summary><b>✔️ Java Comparator</b>
 
