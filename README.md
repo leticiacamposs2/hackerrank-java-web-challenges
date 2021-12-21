@@ -38,7 +38,7 @@ Solution: [java-if-else](https://github.com/leticiacamposs2/hackerrank-java-web-
 
 </details>
 
-<details><summary><b>❌ Java Date and Time</b></summary>
+<details><summary><b>✔️ Java Date and Time</b></summary>
 
 <b>Task</b>
 
@@ -305,13 +305,24 @@ Solution: [can-you-access](https://github.com/leticiacamposs2/hackerrank-java-we
 
 </details>
 
-<details><summary><b>✔️ Java Comparator</b>
+<details><summary><b>✔️ Java Comparator</b></summary>
 
+We define the following terms:
+
+- [Lexicographical Order](https://en.wikipedia.org/wiki/Lexicographical_order), also known as alphabetic or dictionary order, orders characters as follows:
+ 
+  <b>A < B < ... < Y < Z < a < b < ... < y < z</b>
+ 
+For example, `ball < cat, dog < dorm, Happy < happy, Zoo < ball`.
+
+- A [substring](https://en.wikipedia.org/wiki/Substring) of a string is a contiguous block of characters in the string. For example, the substrings of abc are a, b, c, ab, bc, and abc.
+Given a string, , and an integer, , complete the function so that it finds the lexicographically smallest and largest substrings of length .
+  
 Solution: [java-comparator](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/java-comparator.java)
 
-</summary>
+</details>
 
-<details><summary><b>✔️ Java BitSet</summary></details>
+<details><summary><b>✔️ Java BitSet</summary>
 
 Solution: [java-bitset](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-bitset.java)
 
