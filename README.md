@@ -333,11 +333,22 @@ Given <b>2</b> BitSets, <b>B¹</b> and <b>B²</b>, of size <b>N</b> where all bi
 The first line contains <b>2</b> space-separated integers, <b>N</b> (the length of both BitSets <b>B¹</b> and <b>B²</b>) and <b>M</b> (the number of operations to perform), respectively.
 The <b>M</b> subsequent lines each contain an operation in one of the following forms: 
  
- - [AND](https://en.wikipedia.org/wiki/Logical_conjunction)<b><set> <set></b> 
-- [OR](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <set></b> 
-- [XOR](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <set></b>
-- [FLIP](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <index></b>
-- [SET](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <index></b> 
+- [AND](https://en.wikipedia.org/wiki/Logical_conjunction)<b>< set > < set ></b> 
+- [OR](https://en.wikipedia.org/wiki/Logical_disjunction)<b>< set > < set ></b> 
+- [XOR](https://en.wikipedia.org/wiki/Logical_disjunction)<b>< set > < set ></b>
+- [FLIP](https://en.wikipedia.org/wiki/Logical_disjunction)<b>< set > < index ></b>
+- [SET](https://en.wikipedia.org/wiki/Logical_disjunction)<b>< set > < index ></b> 
+ 
+In the list above, <b>< set > </b> is the integer <b>1</b> or <b>2</b>, where <b>1</b> denotes <b>B¹</b> and <b>2</b> denotes <b>B²</b>.
+<b>< index ></b> is an integer denoting a bit's index in the BitSet corresponding to <b>< set ></b> .
+
+For the binary operations <b>AND</b>, <b>OR</b>, and <b>XOR</b>, operands are read from left to right and the BitSet resulting from the operation replaces the contents of the first operand. For example:
+ 
+```
+AND 2 1
+```
+
+<b>B²</b> is the left operand, and <b>B¹</b> is the right operand. This operation should assign the result of <b>B² ^ B¹ to B²</b>.
 
 Solution: [java-bitset](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-bitset.java)
 
