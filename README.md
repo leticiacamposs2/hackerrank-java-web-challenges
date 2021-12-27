@@ -322,7 +322,22 @@ Solution: [java-comparator](https://github.com/leticiacamposs2/hackerrank-java-w
 
 </details>
 
-<details><summary><b>✔️ Java BitSet</summary>
+<details><summary><b>✔️ Java BitSet</b></summary>
+ 
+Java's [BitSet](https://docs.oracle.com/javase/7/docs/api/java/util/BitSet.html) class implements a vector of bit values (i.e.:  <b>false(0)</b> or <b>true(1)</b>) that grows as needed, allowing us to easily manipulate bits while optimizing space (when compared to other collections). Any element having a bit value of <b>1</b> is called a set bit.
+
+Given <b>2</b> BitSets, <b>B¹</b> and <b>B²</b>, of size <b>N</b> where all bits in both BitSets are initialized to <b>0</b>, perform a series of <b>M</b> operations. After each operation, print the number of set bits in the respective BitSets as two space-separated integers on a new line.
+
+<b>Input Format</b>
+
+The first line contains <b>2</b> space-separated integers, <b>N</b> (the length of both BitSets <b>B¹</b> and <b>B²</b>) and <b>M</b> (the number of operations to perform), respectively.
+The <b>M</b> subsequent lines each contain an operation in one of the following forms: 
+ 
+ - [AND](https://en.wikipedia.org/wiki/Logical_conjunction)<b><set> <set></b> 
+- [OR](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <set></b> 
+- [XOR](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <set></b>
+- [FLIP](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <index></b>
+- [SET](https://en.wikipedia.org/wiki/Logical_disjunction)<b><set> <index></b> 
 
 Solution: [java-bitset](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/easy/java-bitset.java)
 
