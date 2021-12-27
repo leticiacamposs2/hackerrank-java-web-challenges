@@ -289,17 +289,70 @@ Solution: [java-string-tokens](https://github.com/leticiacamposs2/hackerrank-jav
 
 <details><summary><b>✔️ Java Dequeue</b></summary>
 
+In computer science, a double-ended queue (dequeue, often abbreviated to deque, pronounced deck) is an abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail).
+
+Deque interfaces can be implemented using various types of collections such as `LinkedList` or `ArrayDeque` classes. For example, deque can be declared as:
+ 
+```
+Deque deque = new LinkedList<>();
+or
+Deque deque = new ArrayDeque<>();
+```
+
+You can find more details about Deque here.
+
+ In this problem, you are given <b>N</b> integers. You need to find the maximum number of unique integers among all the possible contiguous subarrays of size <b>M</b>.
+
+Note: Time limit is <b>3</b> second for this problem.
+
 Solution: [java-queue](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/java--queue.java)
 
 </details>
 
 <details><summary><b>✔️ Java Priority Queue</b></summary>
+ 
+In this problem we will test your knowledge on [Java Priority Queue](https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html).
 
+There are a number of students in a school who wait to be served. Two types of events, ENTER and SERVED, can take place which are described below.
+
+- ENTER: A student with some priority enters the queue to be served.
+- SERVED: The student with the highest priority is served (removed) from the queue.
+A unique id is assigned to each student entering the queue. The queue serves the students based on the following criteria (priority criteria):
+
+1. The student having the highest Cumulative Grade Point Average (CGPA) is served first.
+2. Any students having the same CGPA will be served by name in ascending case-sensitive alphabetical order.
+3. Any students having the same CGPA and name will be served in ascending order of the id. 
+
+Create the following two classes:
+
+- The Student class should implement:
+ - The constructor `Student(int id, String name, double cgpa)`.
+ - The method `int getID()` to return the id of the student.
+ - The method `String getName()` to return the name of the student.
+ - The method `double getCGPA()` to return the CGPA of the student.
+
+ - The Priorities class should implement the method List< Student > getStudents(List< String > events) to process all the given events and return all the students yet to be served in the priority order.
+ 
 Solution: [java-priority-queue](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/java-priority-queue.java)
 
 </details>
 
 <details><summary><b>✔️ Can You Access?</b></summary>
+ 
+You are given a class Solution and an inner class Inner.Private. The main method of class Solution takes an integer <b>num</b> as input. The powerof2 in class Inner.Private checks whether a number is a power of <b>2</b>. You have to call the method powerof2 of the class Inner.Private from the main method of the class Solution.
+ 
+<b>Sample Input</b>
+
+```
+ 8
+```
+
+<b>Sample Output</b>
+
+```
+8 is power of 2
+An instance of class: Solution.Inner.Private has been created
+```
 
 Solution: [can-you-access](https://github.com/leticiacamposs2/hackerrank-java-web-challenges/blob/main/solutions/medium/can-you-access.java)
 
